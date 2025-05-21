@@ -41,3 +41,5 @@ This log is maintained by Luis-0X. It is intended as:
 
 🪶 Maintained by: Luis-0X
 Contact: [lius0x@proton.me](mailto:lius0x@proton.me)
+
+For update or archival operations, see [PERSISTENCE.md](./PERSISTENCE.md)
