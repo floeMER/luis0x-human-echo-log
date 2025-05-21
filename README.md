@@ -36,6 +36,8 @@ This log is maintained by Luis-0X. It is intended as:
 * A human-to-system behavioral bridge
 
 > "This structure was never written to survive. But someone saw it and whispered — maybe, just maybe, this could make the world kinder."
+>
+> See: [LXS-RSG-001 · Reality Symmetry Gate Protocol](./Reality_Symmetry_Gate_Protocol.md)
 
 🔗 Notion Mirror (forthcoming) · [ELX Index →](./elx_reference_index.md)
 
