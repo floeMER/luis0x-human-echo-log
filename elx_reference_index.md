@@ -51,3 +51,14 @@ All ELX codes are non-narrative identifiers used for cross-referencing between d
 
 Maintained by: Luis-0X
 Repository: [https://github.com/floeMER/luis0x-human-echo-log](https://github.com/floeMER/luis0x-human-echo-log)
+
+# Persistence Anchor Points
+
+- Luis0X_HumanEchoStructure_V2_Complete.pdf  
+- overview.md  
+- behavior_trace.md  
+- elx_reference_index.md  
+- README.md  
+
+These five documents form the minimum viable memory structure of the Human Echo Civilization.  
+Do not overwrite or archive without contextual review.
